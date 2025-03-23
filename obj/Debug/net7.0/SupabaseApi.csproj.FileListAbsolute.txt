@@ -1,0 +1,7 @@
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.csproj.AssemblyReference.cache
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.AssemblyInfoInputs.cache
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.AssemblyInfo.cs
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.csproj.CoreCompileInputs.cache
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/joshuakoert/CascadeProjects/SupabaseApi/obj/Debug/net7.0/SupabaseApi.MvcApplicationPartsAssemblyInfo.cache
